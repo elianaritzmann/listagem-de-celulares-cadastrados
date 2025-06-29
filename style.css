@@ -2,7 +2,9 @@
 
 body{
     background-color: rgb(205, 247, 226);
-    display: grid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
     color: rgb(240, 62, 195);
